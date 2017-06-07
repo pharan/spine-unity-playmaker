@@ -1,0 +1,4 @@
+Created with
+Spine-Unity for Spine 3.6
+Hutong Games PlayMaker 1.8.4
+in Unity 5.6
